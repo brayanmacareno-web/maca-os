@@ -25,4 +25,4 @@ sudo instalar-maca-os
 
 ## commands
 
-- **HELP: if you fell lost you can press **win + f1** for commands helps
+- **HELP:** if you feel lost you can press **win + f1** for commands helps
