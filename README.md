@@ -17,3 +17,8 @@ iwctl
 ping -c 3 archlinux.org
 sudo instalar-maca-os
 ```
+## Download
+
+- **MACA OS (`v1.0-alpha`):** [Download ISO from Google Drive](https://drive.google.com/drive/folders/1XiyYzSO0YpAVDmzbgfZJVOIskjA0Oxr4?usp=sharing)
+
+> **Note:** Because the ISO image is larger than 100 MB, Google Drive will show a virus-scan warning screen. Click **Download anyway** to proceed.
