@@ -1,2 +1,19 @@
-# maca-os
-this is a OP based on arch for user wants velocity and a simple look and optimization
+# MACA OS
+
+**MACA OS** is a custom, lightweight Linux distribution built on top of **Arch Linux**. Designed for speed, keyboard-driven productivity, and a clean dark aesthetic, it pairs **i3wm** with custom interactive **EWW** widgets, **Picom** transparency, and a **Calamares** graphical installer.
+
+### Key Highlights
+- **Window Manager & Compositor:** `i3-gaps` paired with `Picom` (rounded corners and smooth fading) and `Rofi`.
+- **Custom UI:** Interactive top bar, control center, audio visualizer (`cava`), and OSD notifications powered by `EWW`.
+- **Ready to Install:** Bootable ISO profile built with `mkarchiso`, custom `SDDM` login screen, and `Calamares` installer.
+
+## Installation
+
+Boot into the **MACA OS** live environment, open a terminal, and run the following commands to connect to Wi-Fi (replacing `wifiname` with your SSID), verify your connection, and launch the installer  (the third command is for a wifi test):
+
+```bash
+iwctl
+ station wlan0 connect wifiname
+ping -c 3 archlinux.org
+sudo instalar-maca-os
+```
