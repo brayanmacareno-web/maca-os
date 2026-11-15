@@ -22,3 +22,7 @@ sudo instalar-maca-os
 - **MACA OS (`v1.0-alpha`):** [Download ISO from Google Drive](https://drive.google.com/drive/folders/1XiyYzSO0YpAVDmzbgfZJVOIskjA0Oxr4?usp=sharing)
 
 > **Note:** Because the ISO image is larger than 100 MB, Google Drive will show a virus-scan warning screen. Click **Download anyway** to proceed.
+
+## commands
+
+- **HELP: if you fell lost you can press **win + f1** for commands helps
